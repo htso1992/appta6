@@ -1,0 +1,8 @@
+{
+  "name": "EduPro Grade 6 English",
+  "description": "A comprehensive learning management system for Grade 6 English students, featuring role-based access for Admins, Teachers, and Students with AI-powered content generation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
